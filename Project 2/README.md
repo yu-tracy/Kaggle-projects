@@ -1,5 +1,5 @@
-## About project 1
+## About project 2
 
-From [New York City Airbnb](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data) (The dataset can be found on this page). 
+From [Hotel booking demand](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand) (The dataset can be found on this page). 
 
-The origional version is: [Data Exploration on NYC Airbnb](https://www.kaggle.com/code/dgomonov/data-exploration-on-nyc-airbnb).
+The origional version is: [EDA of bookings and ML to predict cancelations](https://www.kaggle.com/code/marcuswingen/eda-of-bookings-and-ml-to-predict-cancelations).
